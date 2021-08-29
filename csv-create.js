@@ -8,7 +8,7 @@ const options = {
 };
 
 data.forEach(obj => {
-  const newRow = `${obj.id},${obj.oktaId},${obj.email},${obj.password},${obj.name}\n`;
+  const newRow = `${obj.id},${obj.oktaId},${obj.email},${obj.old_password},${obj.new_password},${obj.name}\n`;
   console.log(newRow);
   fs.writeFileSync('data.csv', newRow, options);
 });

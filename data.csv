@@ -1,4 +1,1 @@
-ID,OKTAID,EMAIL,PASSWORD,NAME
-test-id-123,0y-auidffn4p3hpn5893hn5ruvq938o453,jonathan+test123@test.com,test123,test2740,Jonathan123
-test-id-456,0y-wg458e9tnq304oje5bmpqv3oer5kpga3op54,jonathan+test456@test.com,test456,test5065,Jonathan456
-test-id-789,0y-avwe849hrneavi5394ijprwmvrsfdpaer,jonathan+test789@test.com,test789,test1240,Jonathan789
+ID,OKTAID,EMAIL,OLD-PASSWORD,NEW-PASSWORD,NAME
